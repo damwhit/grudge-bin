@@ -5,19 +5,19 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack.js",
+    "build": "webpack",
     "test": "mocha --compilers js:babel/register"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/turingschool-examples/react-starter-kit.git"
+    "url": "https://github.com/damwhit/grudge-bin.git"
   },
-  "author": "Steve Kinney",
+  "author": "David Whitaker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/turingschool-examples/react-starter-kit/issues"
+    "url": "https://github.com/damwhit/grudge-bin/issues"
   },
-  "homepage": "https://github.com/turingschool-examples/react-starter-kit",
+  "homepage": "https://github.com/damwhit/grudge-bin",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.7.4",
