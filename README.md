@@ -1,3 +1,5 @@
+- ![gif](lib/workflow.gif)
+
 # React Starter Kit
 
 To install the dependencies:
